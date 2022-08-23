@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-size: 1rem;
+  text-align: center;
+  color: white;
+}
+
+.container {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-1 {
+  width: 8.333333%;
+}
+
+.col-2 {
+  width: 16.666667%;
+}
+
+.col-3 {
+  width: 25%;
+}
+
+.col-4 {
+  width: 33.333333%;
+}
+
+.col-5 {
+  width: 41.666667%;
+}
+
+.col-6 {
+  width: 50%;
+}
+
+.col-7 {
+  width: 58.333333%;
+}
+
+.col-8 {
+  width: 66.666667%;
+}
+
+.col-9 {
+  width: 75%;
+}
+
+.col-10 {
+  width: 83.333333%;
+}
+
+.col-11 {
+  width: 91.666667%;
+}
+
+.col-12 {
+  width: 100%;
+}
+
+.logo {
+  background-color: aquamarine;
+  padding: 1rem;
+}
+
+.menu {
+  background-color: lightskyblue;
+  padding: 1rem;
+}
+
+.banner {
+  background-color: red;
+  padding: 4rem;
+}
+
+.bolum {
+  background-color: greenyellow;
+  height: 37.4rem;
+  border: 1px solid gray;
+}
+
+.bolum4 {
+  background-color: tomato;
+  padding: 1rem;
+  border: 1px solid gray;
+}
+
+.bolum5 {
+  background-color: tomato;
+  padding: 1rem;
+  border: 1px solid gray;
+}
+
+.bolum6 {
+  background-color: tomato;
+  padding: 1rem;
+  border: 1px solid gray;
+}
+
+.footer {
+  background-color: violet;
+  padding: 2rem;
+}
